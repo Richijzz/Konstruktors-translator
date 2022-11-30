@@ -1,0 +1,6 @@
+config.ini
+migrationyaml
+translator.yaml
+log/*.log
+log/*.log.2022-*
+__pycache__
